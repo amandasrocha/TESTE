@@ -1,0 +1,7 @@
+C:\Users\amand\OneDrive\Ambiente de Trabalho\AULAS\ALGORITMOS\AULA_04_04_LISTA DE EXERCICIOS\EX1\EX1\EX1\bin\Debug\EX1.exe.config
+C:\Users\amand\OneDrive\Ambiente de Trabalho\AULAS\ALGORITMOS\AULA_04_04_LISTA DE EXERCICIOS\EX1\EX1\EX1\bin\Debug\EX1.exe
+C:\Users\amand\OneDrive\Ambiente de Trabalho\AULAS\ALGORITMOS\AULA_04_04_LISTA DE EXERCICIOS\EX1\EX1\EX1\bin\Debug\EX1.pdb
+C:\Users\amand\OneDrive\Ambiente de Trabalho\AULAS\ALGORITMOS\AULA_04_04_LISTA DE EXERCICIOS\EX1\EX1\EX1\obj\Debug\EX1.csprojResolveAssemblyReference.cache
+C:\Users\amand\OneDrive\Ambiente de Trabalho\AULAS\ALGORITMOS\AULA_04_04_LISTA DE EXERCICIOS\EX1\EX1\EX1\obj\Debug\EX1.csproj.CoreCompileInputs.cache
+C:\Users\amand\OneDrive\Ambiente de Trabalho\AULAS\ALGORITMOS\AULA_04_04_LISTA DE EXERCICIOS\EX1\EX1\EX1\obj\Debug\EX1.exe
+C:\Users\amand\OneDrive\Ambiente de Trabalho\AULAS\ALGORITMOS\AULA_04_04_LISTA DE EXERCICIOS\EX1\EX1\EX1\obj\Debug\EX1.pdb
